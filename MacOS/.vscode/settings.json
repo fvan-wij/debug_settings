@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"types.h": "c",
+		"fdf.h": "c",
+		"mlx42.h": "c"
+	}
+}
